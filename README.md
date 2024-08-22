@@ -1,0 +1,2 @@
+# Classifying-Chronic-Kidney-Disease-CKD-Using-Support-Vector-Machines-SVM-
+The project aims to develop a Support Vector Machine (SVM) model to predict Chronic Kidney Disease (CKD) using clinical data. By identifying key predictors and optimizing the model, the goal is to assist healthcare professionals in early diagnosis and improve patient outcomes, ensuring the model is accurate and generalizes well to new data.
